@@ -1,6 +1,6 @@
-EZ-Assignment
+Secure File Sharing System 
 
-EZ-Assignment is a secure file sharing system designed to simplify the exchange of files in academic or organizational environments. It ensures privacy and integrity through encryption and access control mechanisms.
+secure file sharing system is designed to simplify the exchange of files in academic or organizational environments. It ensures privacy and integrity through encryption and access control mechanisms.
 Features
 
     🔐 Secure File Upload & Download
